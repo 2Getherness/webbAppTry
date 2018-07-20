@@ -1,0 +1,84 @@
+html,
+body {
+    height: 100%;    
+    background: #d4e8e6;
+}
+#top-navBar {
+    color: rgb(0, 0, 0);
+}
+
+#nav-contact {
+    width: 300px !important;
+}
+
+img {
+    max-width: 100%;
+}
+
+#top-image {
+    background: #371010;
+    display: inline;
+}
+
+#cover {
+    background-size: cover;
+    color: rgb(11, 1, 1);
+    text-align: center;
+    display: inline
+}
+
+#carousel1, #carousel2, #carousel3, #carousel4 {
+    padding: 5pt
+}
+
+#title, h1{
+  font-family: cursive;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+#title-container, #carouselGroup-container, #whatWeDo-container {
+    background: #fefefe;
+}
+#title {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#generals-row {
+    background: #73b9bb
+}
+
+#generals-div1, #generals-div2, #generals-div3, #generals-div4 {
+    background: transparent;
+    padding: 1rem
+}
+
+#cards {
+    text-align: center;
+    margin: 10pt;
+}
+
+.section-content {
+    padding: 2.5rem;
+}
+
+#about {
+    background: url('img/girlincar.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#footer-section {
+    text-align: center;
+    background: #18063f;
+    color: #d4e8e6
+}
+
